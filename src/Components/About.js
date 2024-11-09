@@ -12,7 +12,7 @@ function About() {
         <h2>About me</h2>
       <br/>
       <br/>
-      <p> I'm   KARTHICK R, a passionate software Tester.</p>
+      <p> I'm   VETHAGIRI M, a passionate software Tester.</p>
       
 
     </section>
